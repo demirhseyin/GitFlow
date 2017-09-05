@@ -13,6 +13,7 @@ namespace WebApplication23.Controllers
             ViewBag.Title = "Home Page";
 
             return View();
+            //ETTEEE
         }
     }
 }
